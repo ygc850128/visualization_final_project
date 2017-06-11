@@ -1,0 +1,156 @@
+[
+    {
+        "city": "新北市",
+        "103car_accident": "35036",
+        "103drunk": "433",
+        "104car_accidient": "35595",
+        "104drunk": "393"
+    },
+    {
+        "city": "台北市",
+        "103car_accident": "20173",
+        "103drunk": "96",
+        "104car_accidient": "19783",
+        "104drunk": "83"
+    },
+    {
+        "city": "台中",
+        "103car_accident": "61330",
+        "103drunk": "1332",
+        "104car_accidient": "52523",
+        "104drunk": "1034"
+    },
+    {
+        "city": "台南市",
+        "103car_accident": "21685",
+        "103drunk": "623",
+        "104car_accidient": "24811",
+        "104drunk": "523"
+    },
+    {
+        "city": "高雄市",
+        "103car_accident": "57486",
+        "103drunk": "990",
+        "104car_accidient": "58909",
+        "104drunk": "861"
+    },
+    {
+        "city": "宜蘭縣",
+        "103car_accident": "6188",
+        "103drunk": "371",
+        "104car_accidient": "6417",
+        "104drunk": "371"
+    },
+    {
+        "city": "桃園市",
+        "103car_accident": "31534",
+        "103drunk": "640",
+        "104car_accidient": "33813",
+        "104drunk": "688"
+    },
+    {
+        "city": "新竹縣",
+        "103car_accident": "7607",
+        "103drunk": "326",
+        "104car_accidient": "6195",
+        "104drunk": "219"
+    },
+    {
+        "city": "苗栗縣",
+        "103car_accident": "5549",
+        "103drunk": "219",
+        "104car_accidient": "6117",
+        "104drunk": "267"
+    },
+    {
+        "city": "彰化縣",
+        "103car_accident": "19027",
+        "103drunk": "414",
+        "104car_accidient": "16142",
+        "104drunk": "433"
+    },
+    {
+        "city": "南投縣",
+        "103car_accident": "6172",
+        "103drunk": "265",
+        "104car_accidient": "6394",
+        "104drunk": "290"
+    },
+    {
+        "city": "雲林縣",
+        "103car_accident": "6882",
+        "103drunk": "371",
+        "104car_accidient": "12447",
+        "104drunk": "314"
+    },
+    {
+        "city": "嘉義縣",
+        "103car_accident": "5796",
+        "103drunk": "266",
+        "104car_accidient": "5734",
+        "104drunk": "285"
+    },
+    {
+        "city": "屏東縣",
+        "103car_accident": "11166",
+        "103drunk": "509",
+        "104car_accidient": "12443",
+        "104drunk": "473"
+    },
+    {
+        "city": "台東縣",
+        "103car_accident": "2476",
+        "103drunk": "83",
+        "104car_accidient": "2804",
+        "104drunk": "95"
+    },
+    {
+        "city": "花蓮縣",
+        "103car_accident": "5031",
+        "103drunk": "133",
+        "104car_accidient": "4867",
+        "104drunk": "154"
+    },
+    {
+        "city": "澎湖縣",
+        "103car_accident": "1087",
+        "103drunk": "38",
+        "104car_accidient": "1182",
+        "104drunk": "41"
+    },
+    {
+        "city": "基隆",
+        "103car_accident": "3705",
+        "103drunk": "124",
+        "104car_accidient": "3404",
+        "104drunk": "116"
+    },
+    {
+        "city": "新竹市",
+        "103car_accident": "6792",
+        "103drunk": "132",
+        "104car_accidient": "7791",
+        "104drunk": "109"
+    },
+    {
+        "city": "嘉義市",
+        "103car_accident": "3383",
+        "103drunk": "65",
+        "104car_accidient": "3271",
+        "104drunk": "67"
+    },
+    {
+        "city": "金門縣",
+        "103car_accident": "703",
+        "103drunk": "45",
+        "104car_accidient": "744",
+        "104drunk": "46"
+    },
+    {
+        "city": "連江縣",
+        "103car_accident": "0",
+        "103drunk": "1",
+        "104car_accidient": "24",
+        "104drunk": "2"
+    }
+]
